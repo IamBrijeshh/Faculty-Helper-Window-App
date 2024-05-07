@@ -1,0 +1,71 @@
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe.config
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.pdb
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csprojAssemblyReference.cache
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form1.resources
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Properties.Resources.resources
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.GenerateResource.cache
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.CoreCompileInputs.cache
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.exe
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.pdb
+C:\Users\rajda\OneDrive\Documents\New folder\New_College\Semester 5\ADNF\Case_Study\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form2.resources
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe.config
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.pdb
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form1.resources
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form2.resources
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Properties.Resources.resources
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.exe
+C:\Users\student\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.pdb
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe.config
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.pdb
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.AssemblyReference.cache
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form1.resources
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form2.resources
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Properties.Resources.resources
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.GenerateResource.cache
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.CoreCompileInputs.cache
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.exe
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.pdb
+E:\20BSIT019\SEM 5\C# and .Net\Case study\3\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form3.resources
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe.config
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.pdb
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csprojAssemblyReference.cache
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form1.resources
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form2.resources
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form3.resources
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Properties.Resources.resources
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.GenerateResource.cache
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.CoreCompileInputs.cache
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.exe
+C:\Users\rajda\OneDrive\Desktop\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.pdb
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe.config
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.pdb
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.AssemblyReference.cache
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form1.resources
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form2.resources
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form3.resources
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Properties.Resources.resources
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.GenerateResource.cache
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.CoreCompileInputs.cache
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.exe
+E:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.pdb
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe.config
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.exe
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\bin\Debug\Faculty_Helper.pdb
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.AssemblyReference.cache
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.SuggestedBindingRedirects.cache
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form1.resources
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form2.resources
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Form3.resources
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.Properties.Resources.resources
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.GenerateResource.cache
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.csproj.CoreCompileInputs.cache
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.exe
+D:\20BSIT019\SEM 5\C# and .Net\Case study\Final\Faculty_Helper\Faculty_Helper\obj\Debug\Faculty_Helper.pdb
